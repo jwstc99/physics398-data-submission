@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+    <title>Please Select Dataset</title>
+</head>
+<body>
+    <h1>Please Select Which Dataset You Wish to View</h1>
+    <form method=post enctype="multipart/form-data">
+        <select id=dataset name=dataset>
+            {%for i in range(0, len)%}
+                <option value={{datalist[i]}}>{{datalist[i]}}</option>
+            {%endfor%}
+        </select>
+        <input type="submit" value='Render Graphs'>
+    </form>
+</body>
