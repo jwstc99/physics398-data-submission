@@ -6,3 +6,10 @@ pngstore/chang/*
 uploads/jack/*
 uploads/david/*
 uploads/chang/*
+
+!pngstore/jack/.gitkeep
+!pngstore/david/.gitkeep
+!pngstore/chang/.gitkeep
+!uploads/jack/.gitkeep
+!uploads/david/.gitkeep
+!uploads/chang/.gitkeep
