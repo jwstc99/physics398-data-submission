@@ -1,1 +1,8 @@
 flaskenv
+flask_app
+pngstore/jack/*
+pngstore/david/*
+pngstore/chang/*
+uploads/jack/*
+uploads/david/*
+uploads/chang/*
