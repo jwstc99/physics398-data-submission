@@ -1,15 +1,15 @@
 flaskenv
 flask_app
-pngstore/jack/*
-pngstore/david/*
-pngstore/chang/*
+static/pngstore/jack/*
+static/pngstore/david/*
+static/pngstore/chang/*
 uploads/jack/*
 uploads/david/*
 uploads/chang/*
 
-!pngstore/jack/.gitkeep
-!pngstore/david/.gitkeep
-!pngstore/chang/.gitkeep
+!static/pngstore/jack/.gitkeep
+!static/pngstore/david/.gitkeep
+!static/pngstore/chang/.gitkeep
 !uploads/jack/.gitkeep
 !uploads/david/.gitkeep
 !uploads/chang/.gitkeep

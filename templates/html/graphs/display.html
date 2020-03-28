@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+    <title>{{dset_name}} Graphs</title>
+</head>
+<body>
+    <h1>Graphs for {{user}} - {{dset_name}}</h1>
+    {%for i in range(0, 19)%}
+        <div class="graph">
+            <img src={{setlist[i]}}>
+        </div>
+    {%endfor%}
+</body>
