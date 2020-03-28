@@ -44,7 +44,7 @@ Please make sure to update tests as appropriate.
 
 ## Road Map
 
-The plan is in the future to make this look pretty. Also the graphs need to actually be displayed.
+The plan is in the future to make this look pretty.
 Also need to add in apache.
 
 ## License
