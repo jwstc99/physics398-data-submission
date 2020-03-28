@@ -13,3 +13,5 @@ uploads/chang/*
 !uploads/jack/.gitkeep
 !uploads/david/.gitkeep
 !uploads/chang/.gitkeep
+
+.idea
