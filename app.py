@@ -141,3 +141,6 @@ def show_graphs(user, dset_name):
     for i in range(len(setlist)):
         setlist[i] = os.path.join(path_to_image, setlist[i])
     return render_template('html/graphs/display.html', dset_name=dset_name, user=user, setlist=setlist)
+
+if __name__ == '__main__':
+  app.run()
